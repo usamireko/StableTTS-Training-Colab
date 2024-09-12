@@ -6,7 +6,7 @@ Any improvements are welcome!!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usamireko/StableTTS-Training-Colab/blob/main/StableTTS_Training.ipynb)
 
 
-# Version of nb: 1.0
+# Version of notebook: v1.1
 
 
 ## Credits
