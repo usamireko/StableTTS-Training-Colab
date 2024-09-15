@@ -101,7 +101,7 @@ If all runs smoothly you will see that the training is starting, usually around 
 
 - # Extra steps: Inference time!
 
-Although this notebook isnt focused for inference (there´s already one in the StableTTS folder), this is useful for testing models.
+Although this notebook isnt focused for inference (there´s already one in the StableTTS repo), this is useful for testing models.
 
 ![image](https://github.com/user-attachments/assets/0f612b8d-65df-41fe-a266-a5a433536155)
 
