@@ -5,6 +5,9 @@ Any improvements are welcome!!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usamireko/StableTTS-Training-Colab/blob/main/StableTTS_Training.ipynb)
 
+# Updates
+- 02/24/25: Added Temperature, Lenght Scale and more solvers outside of the 3 initially present
+
 
 
 # Instructions of usage
